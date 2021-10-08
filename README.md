@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenIsenstein
-- 👀 I’m interested in - EdTech, Design, UX
+- 👀 I’m interested in - EdTech, Automation, Design, UX
 - ✌🏼 Some hobbies of mine are - Backpacking, Music, Cooking, Yoga
-- 🌱 I’m currently learning - Full Stack Development in Inception University's EvolveU program. 
+- 🌱 I’m currently learning - Advanced React, CSS, Rock Climbing
 - 💞️ I’m looking to collaborate on - Front end design, and Music Education Technology!! :-)
 - 📫 How to reach me - ben.isenstein@gmail.com
 
