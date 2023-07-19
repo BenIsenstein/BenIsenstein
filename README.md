@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BenIsenstein
-- 👀 I’m interested in - EdTech, Automation, Design, UX
-- ✌🏼 Some hobbies of mine are - Backpacking, Music, Cooking, Yoga
-- 🌱 I’m currently learning - Advanced React, Next.js, CSS/SCSS, Rock Climbing
-- 💞️ I’m looking to collaborate on - Front end frameworks, and Music Education Technology!! :-)
+- 👀 I’m interested in - Creative coding, Automation, and Browser APIs
+- ✌🏼 Some hobbies of mine are - Backpacking, Music, Yoga
+- 🌱 I’m currently learning - Canvas API, Optimistic UI updates, 
+- 💞️ I’m looking to collaborate on - Anything inspiring, with people who I like working with :)
 - 📫 How to reach me - ben.isenstein@gmail.com
 
 <!---
