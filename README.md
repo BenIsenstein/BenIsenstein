@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BenIsenstein
-- 👀 I’m interested in - Creative coding, Automation, and Browser APIs
+- 👀 I’m interested in - Creative coding, Automation, System Design and Browser APIs
 - ✌🏼 Some hobbies of mine are - Backpacking, Music, Yoga
-- 🌱 I’m currently learning - Canvas API, Optimistic UI updates, 
+- 🌱 I’m currently learning - Canvas API, Optimistic UI updates, Supabase, UI Design
 - 💞️ I’m looking to collaborate on - Anything inspiring, with people who I like working with :)
 - 📫 How to reach me - ben.isenstein@gmail.com
 
