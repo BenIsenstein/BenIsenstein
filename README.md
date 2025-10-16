@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BenIsenstein
+- 👨‍💻 Inventor and maintainer of PG On Rails, "Self-hosted Supabase. Amazing developer experience."
 - 👀 I’m interested in - Creative coding, Automation, System Design and Browser APIs
 - ✌🏼 Some hobbies of mine are - Backpacking, Music, Yoga
 - 🌱 I’m currently learning - Canvas API, Optimistic UI updates, Supabase, UI Design
