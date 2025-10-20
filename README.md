@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenIsenstein
-- 👨‍💻 Inventor and maintainer of PG On Rails, "Self-hosted Supabase. Amazing developer experience."
-- 👀 I’m interested in - System Design, Browser APIs, DX, OAuth, the state-of-the-art of Fullstack Develepment
+- 👨‍💻 Creator and maintainer of PG On Rails, "Self-hosted Supabase. Amazing developer experience."
+- 👀 I’m interested in - System Design, Browser APIs, DX, OAuth2.0, the state-of-the-art of Fullstack Development
 - ✌🏼 Some hobbies of mine are - Camping, Rock Climbing, Music, Yoga
 - 🌱 I’m currently learning - Supabase, UI Design, Docker Compose, NextJS best practices with cookie auth
 - 💞️ I’m looking to collaborate on - Anything inspiring, FOSS, with growth-oriented people :)
