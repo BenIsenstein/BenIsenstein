@@ -10,7 +10,7 @@
 - 📁 [Resume](https://www.benisenstein.me/resume/)
 - 📔 [Blog](https://www.benisenstein.me/blog/)
 
-I am looking for remote work opportunities, please connect! :)
+I am looking for work opportunities, please connect! :)
 
 <!---
 BenIsenstein/BenIsenstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
